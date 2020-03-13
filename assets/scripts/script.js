@@ -22,5 +22,5 @@ $(document).ready(function() {
 
   //append to container
     $(".container").append(rowEl);
-  }
+  } 
 });
