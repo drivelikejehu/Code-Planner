@@ -1,3 +1,5 @@
+https://github.com/drivelikejehu/Day-Planner/blob/develop/assets/images/dayplanner.JPG
+
 # Day-Planner
 
 The purpose of this assignment was to utilize a couple of different API's. JQuery, in conjuction with moment.js, to create a day planner by manipulation the Document Object Model. Users are to enter events which will save onto local storage. Past, present, and future events are color-coded.
